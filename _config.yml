@@ -11,7 +11,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
+baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
@@ -22,7 +22,7 @@ twitter_username: thedorkknight5 # your Twitter handle
 linkedin_username: amanshrivastava9 # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
-contact_note: 
+contact_note:
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
