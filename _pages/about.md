@@ -90,7 +90,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
     <div class="col-sm-12">
         <h3><a target="_blank" href="http://grayraven.herokuapp.com/">Raven</a></h3>
         <p>
-            Developed a IRC-like, topic based, real-time, anonymous chat engine with crowd-sourced topic selection. Used the generated dataset to analyse \textbf{topic centered public sentiment.
+            Developed a IRC-like, topic based, real-time, anonymous chat engine with crowd-sourced topic selection. Used the generated dataset to analyze topic centered public sentiment.
         </p>
     </div>
 </div>
